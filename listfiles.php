@@ -7,7 +7,7 @@ while (false !== ($entry = readdir($handle))) {
 
         echo "$entry\n";
 //         echo "file_get_contents($entry)";
-        echo "\n========\n"
+//         echo "\n========\n"
     }
 }
 
